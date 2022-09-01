@@ -22,3 +22,4 @@ https://laravel.com/docs/9.x/localization#main-content
 ![lang3](https://user-images.githubusercontent.com/80118217/187858459-f288a590-a1ec-4be2-a89f-8307ff91f54a.JPG)
 
 
+![lang4](https://user-images.githubusercontent.com/80118217/187858614-7dbd638d-0939-4f11-8c04-f0a97179e0d2.JPG)
