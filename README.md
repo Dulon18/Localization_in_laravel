@@ -14,3 +14,11 @@ https://laravel.com/docs/9.x/localization#main-content
 
 ![lang1](https://user-images.githubusercontent.com/80118217/187858320-fbd5931a-863e-41b4-afda-d05e2144c806.JPG)
 
+
+
+![lang2](https://user-images.githubusercontent.com/80118217/187858435-bc5ba700-6475-4e51-9f69-af26e0778c9e.JPG)
+
+
+![lang3](https://user-images.githubusercontent.com/80118217/187858459-f288a590-a1ec-4be2-a89f-8307ff91f54a.JPG)
+
+
