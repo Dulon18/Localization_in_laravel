@@ -10,4 +10,7 @@
 ## laravel
 https://laravel.com/docs/9.x/localization#main-content
 
+## Output
+
+![lang1](https://user-images.githubusercontent.com/80118217/187858320-fbd5931a-863e-41b4-afda-d05e2144c806.JPG)
 
